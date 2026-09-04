@@ -14,6 +14,10 @@ C# .NET 3.5 class library: command-line argument parser and WinForms TraceListen
 
 Open `VaderConsulting.CommandLine.csproj` in Visual Studio 2013 or later (ToolsVersion 12.0). There is no `.sln` in this folder.
 
+## Requirements
+
+- Visual Studio 2013 or later, .NET Framework 3.5
+
 ## Attribution and provenance
 
 Working copy from Dave Robinson's OneDrive Historical Dev folder `VaderConsulting.CommandLine`. Assembly title/product `VaderConsulting.CommandLine`; the template still has company/copyright Microsoft 2015. Namespaces `VaderConsulting.CommandLine` and `CommandLine`. `packages.config` lists AsyncBridge 0.1.1; `App.config` has leftover Entity Framework 6 LocalDB section. Neither is referenced by the `.csproj`.
