@@ -20,7 +20,7 @@ Open `VaderConsulting.CommandLine.csproj` in Visual Studio 2013 or later (ToolsV
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VaderConsulting.CommandLine`. Assembly title/product `VaderConsulting.CommandLine`; the template still has company/copyright Microsoft 2015. Namespaces `VaderConsulting.CommandLine` and `CommandLine`. `packages.config` lists AsyncBridge 0.1.1; `App.config` has leftover Entity Framework 6 LocalDB section. Neither is referenced by the `.csproj`.
+Working copy from my Historical Dev folder `VaderConsulting.CommandLine`. Assembly title/product `VaderConsulting.CommandLine`; the template still has company/copyright Microsoft 2015. Namespaces `VaderConsulting.CommandLine` and `CommandLine`. `packages.config` lists AsyncBridge 0.1.1; `App.config` has leftover Entity Framework 6 LocalDB section. Neither is referenced by the `.csproj`.
 
 ## License
 
